@@ -1,0 +1,5 @@
+model,device,avg_latency_ms,fps,n_images,warmup_frames
+YOLOv11n,pytorch:cpu,27.45,36.43,855,10
+YOLOv11m,pytorch:cpu,141.03,7.09,855,10
+YOLOv26m,pytorch:cpu,152.39,6.56,855,10
+YOLOv26n,pytorch:cpu,28.75,34.78,855,10

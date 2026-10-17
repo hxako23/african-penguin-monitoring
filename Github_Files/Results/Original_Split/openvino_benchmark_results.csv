@@ -1,0 +1,9 @@
+model,device,map50,map50_95,avg_latency_ms,std_latency_ms,fps,n_images,warmup_frames,precision,error
+YOLOv11n,intel:cpu,0.8882,0.6648,27.67,12.95,36.14,855,10,FP32,
+YOLOv11n,intel:gpu.0,0.8882,0.6648,30.44,13.77,32.85,855,10,FP32,
+YOLOv11m,intel:cpu,0.9077,0.7043,169.63,31.87,5.9,855,10,FP32,
+YOLOv11m,intel:gpu.0,0.9077,0.7043,179.06,34.58,5.58,855,10,FP32,
+YOLOv26m,intel:cpu,0.9277,0.744,166.61,28.31,6.0,855,10,FP32,
+YOLOv26m,intel:gpu.0,0.9277,0.744,168.79,26.12,5.92,855,10,FP32,
+YOLOv26n,intel:cpu,0.8838,0.6674,24.69,8.67,40.5,855,10,FP32,
+YOLOv26n,intel:gpu.0,0.8838,0.6674,25.74,8.23,38.85,855,10,FP32,

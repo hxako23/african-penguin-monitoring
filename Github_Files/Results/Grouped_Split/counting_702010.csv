@@ -1,0 +1,9 @@
+model,test_set,photos_with_penguins,mae,within_5pct,total_true,total_predicted,total_error_pct,empty_photos,false_boxes_on_empty,empty_photos_with_a_false_box
+YOLOv11n,all,2825,0.94,68.1,15632,14782,-5.44,558,265,186
+YOLOv11n,african,835,0.87,68.3,5554,5446,-1.94,0,0,0
+YOLOv26n,all,2825,1.09,66.6,15632,13901,-11.07,558,232,169
+YOLOv26n,african,835,1.03,66.5,5554,5183,-6.68,0,0,0
+YOLOv11m,all,2825,0.79,70.4,15632,15456,-1.13,558,300,211
+YOLOv11m,african,835,0.69,70.5,5554,5566,0.22,0,0,0
+YOLOv26m,all,2825,0.82,69.3,15632,15471,-1.03,558,296,204
+YOLOv26m,african,835,0.72,69.5,5554,5576,0.4,0,0,0

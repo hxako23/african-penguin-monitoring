@@ -1,0 +1,3 @@
+model,scale,map50_all,map50_95_all,map50_african,map50_95_african,mae,within_5pct,total_error_pct,false_boxes_on_empty
+YOLOv11n,0.5 (default),0.8616,0.6568,0.8974,0.6713,0.94,68.1,-5.44,265
+YOLOv11n,0.3,0.8596,0.6521,0.8946,0.6653,0.96,67.9,-3.68,266

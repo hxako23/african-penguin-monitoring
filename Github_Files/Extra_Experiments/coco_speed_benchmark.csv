@@ -1,0 +1,5 @@
+model,dataset,avg_latency_ms,fps,n_images
+YOLOv11n,sama-coco-valid,20.69,48.32,5000
+YOLOv11m,sama-coco-valid,103.87,9.63,5000
+YOLOv26m,sama-coco-valid,106.92,9.35,5000
+YOLOv26n,sama-coco-valid,19.94,50.14,5000
